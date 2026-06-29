@@ -1,0 +1,32 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Arduino build files
+build/
+*.elf
+*.hex
+*.bin
+*.map
+*.lss
+*.eep
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.cproject
+.settings/
+
+# Temporary files
+*.tmp
+*.bak
+*.orig
